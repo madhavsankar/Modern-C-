@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "__mutex_base": "cpp",
+        "atomic": "cpp",
+        "barrier": "cpp",
+        "condition_variable": "cpp",
+        "future": "cpp",
+        "latch": "cpp"
+    }
+}
